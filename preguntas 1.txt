@@ -1,0 +1,17 @@
+Ejercicio 3.1
+
+1.¿Que ocurre si los factores de escala son diferentes entre si?
+
+si los factores de la escala son diferentes hacen que la escala se deforme y no esten bien equilibrados.
+
+2.¿Y si algun factor de escala es cero?
+
+si es cero el objeto desaparece.
+
+3.¿Que ocurre si uno o varios factores de escala son negativos?
+
+si uno o varios factores son negativos la figura se hace mas pequeña en escala.
+
+4.¿Y si el factor de escala esta entre cero y uno?
+
+si el factor de escala esta entre cero y uno se reduce.
